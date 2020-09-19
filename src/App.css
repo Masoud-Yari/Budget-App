@@ -357,6 +357,7 @@ body {
   }
   .history-container {
     margin-bottom: 20px;
+    min-height: 170px;
   }
   .header {
     padding: 2rem 2rem 4rem 2rem;
